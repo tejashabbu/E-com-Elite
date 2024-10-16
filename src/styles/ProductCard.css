@@ -1,0 +1,16 @@
+.product-card {
+    border: 1px solid #800000;
+    padding: 10px;
+    border-radius: 5px;
+    width: 150px;
+  }
+  .product-card h3 {
+    margin: 0;
+  }
+  .product-card button {
+    background-color: #800000;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  

@@ -1,0 +1,13 @@
+.checkout-page {
+    padding: 20px;
+  }
+  .checkout-page h1 {
+    text-align: left;
+  }
+  input {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #800000;
+    border-radius: 5px;
+  }
+  
